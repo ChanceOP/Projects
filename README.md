@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChanceOP
+- 👋 Hi, I’m Chance
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning computer science at Kennesaw State University
 - 💞️ I’m looking for work opportunities
